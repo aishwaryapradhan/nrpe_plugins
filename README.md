@@ -2,7 +2,7 @@
 Nagios based NRPE plugins developed by me.
 
 
-check_generic_process.py
+## check_generic_process.py
 Using this plugin, We can check for any process in linux. 
 For example:- 
 ./check_generic_process.py -w a:b -c e:f -p chromium
